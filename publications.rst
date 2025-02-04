@@ -5,6 +5,7 @@ This is a list of peer-reviewed publications that were made possible due to thei
 
 Preprints:
 
+- https://doi.org/10.1101/2024.10.30.620815 Landmark-based estimates of genomic disparity
 - https://doi.org/10.1101/2023.03.24.534090 - THAPBI PICT - a fast, cautious, and accurate metabarcoding analysis pipeline
 - https://doi.org/10.1101/2022.06.22.497172 - KPop: An assembly-free and scalable method for the comparative analysis of microbial genomes
 - https://doi.org/10.1101/2022.09.23.22279632 - Consideration of within-patient diversity highlights transmission pathways and antimicrobial resistance gene variability in vancomycin resistant Enterococcus faecium
